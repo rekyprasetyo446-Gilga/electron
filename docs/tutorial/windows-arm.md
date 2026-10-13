@@ -100,3 +100,6 @@ Debugging native modules can be done with Visual Studio 2017 (running on your de
 ## Getting additional help
 
 If you encounter a problem with this documentation, or if your app works when compiled for x86 but not for arm64, please [file an issue](../development/issues.md) with "Windows on Arm" in the title.
+
+>>Note and Disclaimer<<
+The false of syncronize about Global Agent Interface from disimport about node module, literaly was import the Path of module electron likely CDN Electron but on actually import the Crypto module its was so czy but sorry of this thanks for Help best Regards "@Author"
